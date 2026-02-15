@@ -58,7 +58,7 @@ script.js : Scripts JavaScript pour l'interactivité du site (par exemple, effet
 
 Clonez ce repository :
 
-git clone https://github.com/TON-PSEUDO/portfolio.git
+git clone [https://github.com/TON-PSEUDO/portfolio.git](https://churri95.github.io/portfolio-julie/)
 
 
 Ouvrez le dossier dans votre éditeur préféré (par exemple, VS Code).
