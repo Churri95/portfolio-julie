@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact – Julie Gredoire</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+<header>
+  <nav class="navbar">
+    <div class="logo">Julie Gredoire</div>
+
+    <ul class="nav-links">
+      <li><a href="index.html">Accueil</a></li>
+      <li><a href="about.html">À propos</a></li>
+      <li><a href="skills.html">Compétences</a></li>
+      <li><a href="projects.html">Projets</a></li>
+      <li><a href="parcours.html">Parcours académique</a></li>
+      <li><a href="experiences.html">Expériences</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+
+    <div class="lang-switch">
+      <a class="lang active" href="../fr/contact.html">FR</a>
+      <span>|</span>
+      <a class="lang" href="../en/contact.html">EN</a>
+    </div>
+  </nav>
+</header>
+
+<section class="page-section">
+  <h1>Me contacter</h1>
+  <p>Vous pouvez me contacter pour toute question, projet ou opportunité.</p>
+
+  <div class="contact-layout">
+
+    <!-- Coordonnées -->
+    <div class="contact-card">
+      <h3>Coordonnées</h3>
+      <ul>
+        <li><strong>Email :</strong> julie.gredoire@gmail.com</li>
+        <li><strong>LinkedIn :</strong> Profil LinkedIn</li>
+        <li><strong>GitHub :</strong> Voir mon GitHub</li>
+        <li><strong>Localisation :</strong> Île-de-France, France</li>
+      </ul>
+    </div>
+
+    <!-- Formulaire -->
+    <div class="contact-card">
+      <h3>Formulaire de contact</h3>
+      <p>Les informations transmises sont utilisées uniquement pour répondre à votre message.</p>
+
+      <form 
+        action="https://formspree.io/f/xqelbnrb" 
+        method="POST"
+      >
+        <div class="form-group">
+          <label for="name">Nom / Prénom</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+
+        <div class="form-group">
+          <label for="email">Adresse email</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+
+        <!-- Options Formspree -->
+        <input type="hidden" name="_subject" value="Nouveau message – Portfolio Julie Gredoire">
+        <input type="hidden" name="_template" value="table">
+
+        <button type="submit" class="btn-primary">Envoyer le message</button>
+      </form>
+
+      <p class="form-legal">
+        En envoyant ce formulaire, vous acceptez que je vous recontacte par email.
+        <br>
+        <a href="mentions-legales.html">Mentions légales & RGPD</a>
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 – Portfolio Julie Gredoire</p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Contact – Julie Gredoire</title>
+  <link rel="stylesheet" href="../style.css" />
+</head>
+
+<body>
+<header>
+  <nav class="navbar">
+    <div class="logo">Julie Gredoire</div>
+
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="skills.html">Skills</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="education.html">Education</a></li>
+      <li><a href="experience.html">Experience</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+
+    <div class="lang-switch">
+      <a class="lang" href="../fr/contact.html">FR</a>
+      <span>|</span>
+      <a class="lang active" href="../en/contact.html">EN</a>
+    </div>
+  </nav>
+</header>
+
+<section class="page-section">
+  <h1>Contact me</h1>
+  <p>You can contact me for any question, project or opportunity.</p>
+
+  <div class="contact-layout">
+
+    <!-- Contact details -->
+    <div class="contact-card">
+      <h3>Contact details</h3>
+      <ul>
+        <li><strong>Email:</strong> julie.gredoire@gmail.com</li>
+        <li><strong>LinkedIn:</strong> LinkedIn profile</li>
+        <li><strong>GitHub:</strong> View my GitHub</li>
+        <li><strong>Location:</strong> Île-de-France, France</li>
+      </ul>
+    </div>
+
+    <!-- Form -->
+    <div class="contact-card">
+      <h3>Contact form</h3>
+      <p>Information sent via this form is used only to reply to your message.</p>
+
+      <form 
+        action="https://formspree.io/f/xqelbnrb" 
+        method="POST"
+      >
+        <div class="form-group">
+          <label for="name">Full name</label>
+          <input type="text" id="name" name="name" required />
+        </div>
+
+        <div class="form-group">
+          <label for="email">Email address</label>
+          <input type="email" id="email" name="email" required />
+        </div>
+
+        <div class="form-group">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="5" required></textarea>
+        </div>
+
+        <!-- Formspree options -->
+        <input type="hidden" name="_subject" value="New message – Julie Gredoire Portfolio">
+        <input type="hidden" name="_template" value="table">
+
+        <button type="submit" class="btn-primary">Send message</button>
+      </form>
+
+      <p class="form-legal">
+        By submitting this form, you agree to be contacted by email.
+        <br>
+        <a href="legal.html">Legal notice & Privacy</a>
+      </p>
+    </div>
+
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 – Julie Gredoire Portfolio</p>
+</footer>
+
+</body>
+</html>
