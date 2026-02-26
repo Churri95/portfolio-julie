@@ -71,6 +71,8 @@ Pour afficher le site en local, ouvrez simplement le fichier index.html dans vot
 - LinkedIn : https://www.linkedin.com/in/julie-gredoire/
 - GitHub : https://github.com/
 
+---
+
 ## 7. Contact
 Pour toute question ou opportunité professionnelle, vous pouvez me contacter à l’adresse suivante :
 julie.gredoire@gmail.com
