@@ -39,15 +39,17 @@ Vous y trouverez également :
 
 ---
 
+
 ## 4. Structure du projet
-index.html        → Page d'accueil
-about.html        → Présentation générale et objectifs
-skills.html       → Liste des compétences techniques
-projects.html     → Présentation des projets
-experience.html   → Expériences professionnelles et formation
-contact.html      → Page de contact
-style.css         → Feuille de style principale
-script.js         → Scripts JavaScript (interactions, effets visuels)
+
+- **index.html** → Page d'accueil  
+- **about.html** → Présentation générale et objectifs  
+- **skills.html** → Liste des compétences techniques  
+- **projects.html** → Présentation des projets  
+- **experience.html** → Expériences professionnelles et formation  
+- **contact.html** → Page de contact  
+- **style.css** → Feuille de style principale  
+- **script.js** → Scripts JavaScript (interactions, effets visuels)
 
 
 ---
@@ -65,14 +67,10 @@ Pour afficher le site en local, ouvrez simplement le fichier index.html dans vot
 
 ---
 
-## 6. Configuration
-Aucune configuration particulière n’est requise.
-Vous pouvez personnaliser le portfolio en modifiant les fichiers HTML, CSS ou JavaScript selon vos besoins.
-
-## 7. Liens externes
+## 6. Liens externes
 - LinkedIn : https://www.linkedin.com/in/julie-gredoire/
 - GitHub : https://github.com/
 
-## 8. Contact
+## 7. Contact
 Pour toute question ou opportunité professionnelle, vous pouvez me contacter à l’adresse suivante :
 julie.gredoire@gmail.com
