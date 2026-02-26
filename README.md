@@ -1,4 +1,4 @@
-# Portfolio — Julie Grégoire
+# Portfolio — Julie GREDOIRE
 
 Bienvenue sur mon portfolio en ligne.  
 Ce projet présente mon parcours académique, mes expériences professionnelles, mes compétences techniques et les projets réalisés dans le cadre de mon Bachelor Universitaire de Technologie (BUT) Réseaux et Télécommunications à l’IUT de Villetaneuse – Université Sorbonne Paris Nord.
