@@ -1,36 +1,45 @@
-Portfolio — Julie Grédoire
+# Portfolio — Julie Grégoire
 
-Bienvenue sur mon portfolio en ligne.
+Bienvenue sur mon portfolio en ligne.  
 Ce projet présente mon parcours académique, mes expériences professionnelles, mes compétences techniques et les projets réalisés dans le cadre de mon Bachelor Universitaire de Technologie (BUT) Réseaux et Télécommunications à l’IUT de Villetaneuse – Université Sorbonne Paris Nord.
 
-1. Description du projet
-Ce portfolio rassemble l’ensemble des travaux réalisés durant ma formation.
+---
+
+## 1. Description du projet
+
+Ce portfolio rassemble l’ensemble des travaux réalisés durant ma formation.  
 Il met en avant différents projets en réseaux, télécommunications, cybersécurité, développement web et gestion de projet.
+
 Vous y trouverez également :
 
-2. Mes expériences professionnelles
-Mes compétences techniques
-Mes centres d’intérêt
-Des liens vers des projets externes (GitHub, vidéos, présentations)
+- Mes expériences professionnelles  
+- Mes compétences techniques  
+- Mes centres d’intérêt  
+- Des liens vers des projets externes (GitHub, vidéos, présentations)
 
+---
 
-3. Technologies utilisées
-- HTML5
-- CSS3
-- JavaScript
-- Git / GitHub
-- Visual Studio Code
+## 2. Technologies utilisées
 
-4. Fonctionnalités principales
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git / GitHub  
+- Visual Studio Code  
 
-- Page d’accueil : Présentation générale, objectifs professionnels et compétences clés
-- Projets : Liste détaillée des projets réalisés au cours de ma formation
-- Compétences : Description de mes compétences techniques en réseaux, systèmes, cybersécurité et développement web
-- Expérience : Diplômes, formations et expériences professionnelles
-- Contact : Page de contact avec formulaire
+---
 
+## 3. Fonctionnalités principales
 
-5. Structure du projet
+- **Page d’accueil** : Présentation générale, objectifs professionnels et compétences clés  
+- **Projets** : Liste détaillée des projets réalisés au cours de ma formation  
+- **Compétences** : Description de mes compétences techniques en réseaux, systèmes, cybersécurité et développement web  
+- **Expérience** : Diplômes, formations et expériences professionnelles  
+- **Contact** : Page de contact avec formulaire  
+
+---
+
+## 4. Structure du projet
 index.html        → Page d'accueil
 about.html        → Présentation générale et objectifs
 skills.html       → Liste des compétences techniques
@@ -41,22 +50,28 @@ style.css         → Feuille de style principale
 script.js         → Scripts JavaScript (interactions, effets visuels)
 
 
-6. Installation
-Clonez le repository :git clone https://churri95.github.io/portfolio-julie/ 
+---
+
+## 5. Installation
+
+Clonez le repository :
+
+```bash
+git clone https://churri95.github.io/portfolio-julie/
+
 Ouvrez ensuite le dossier dans votre éditeur de code (exemple : VS Code).
 Pour afficher le site en local, ouvrez simplement le fichier index.html dans votre navigateur.
 
-7. Configuration
+---
+
+## 6. Configuration
 Aucune configuration particulière n’est requise.
 Vous pouvez personnaliser le portfolio en modifiant les fichiers HTML, CSS ou JavaScript selon vos besoins.
 
+## 7. Liens externes
+- LinkedIn : https://www.linkedin.com/in/julie-gredoire/
+- GitHub : https://github.com/
 
-Liens externes
-
-LinkedIn : [[Lien LinkedIn]](https://www.linkedin.com/in/julie-gredoire/)
-GitHub : [[Lien GitHub]](https://github.com/)
-
-
-Contact
+## 8. Contact
 Pour toute question ou opportunité professionnelle, vous pouvez me contacter à l’adresse suivante :
 julie.gredoire@gmail.com
