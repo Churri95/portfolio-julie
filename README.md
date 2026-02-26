@@ -58,6 +58,7 @@ Clonez le repository :
 
 ```bash
 git clone https://churri95.github.io/portfolio-julie/
+```
 
 Ouvrez ensuite le dossier dans votre éditeur de code (exemple : VS Code).
 Pour afficher le site en local, ouvrez simplement le fichier index.html dans votre navigateur.
