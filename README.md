@@ -1,90 +1,62 @@
-Portfolio Julie Gredoire
+Portfolio — Julie Grédoire
 
-Bienvenue sur mon portfolio en ligne ! Ce projet présente mon parcours académique, mes expériences professionnelles, mes compétences techniques et mes projets réalisés dans le cadre de mon Bachelor Universitaire de Technologie en Réseaux et Télécommunications à l'IUT de Villetaneuse, Université Sorbonne Paris Nord.
+Bienvenue sur mon portfolio en ligne.
+Ce projet présente mon parcours académique, mes expériences professionnelles, mes compétences techniques et les projets réalisés dans le cadre de mon Bachelor Universitaire de Technologie (BUT) Réseaux et Télécommunications à l’IUT de Villetaneuse – Université Sorbonne Paris Nord.
 
-Description
+1. Description du projet
+Ce portfolio rassemble l’ensemble des travaux réalisés durant ma formation.
+Il met en avant différents projets en réseaux, télécommunications, cybersécurité, développement web et gestion de projet.
+Vous y trouverez également :
 
-Ce portfolio présente les projets que j'ai réalisés tout au long de mon cursus. Il inclut des projets en Réseaux et Télécommunications, ainsi que mes compétences en gestion de projet, cybersécurité, et développement web.
-
-Le site contient également des informations sur mes expériences professionnelles, mes compétences techniques, et mes passions, avec des liens vers des projets externes comme GitHub et des vidéos de présentation.
-
-Technologies utilisées
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Git / GitHub
-
-Python (pour certains scripts et projets)
-
-VS Code (IDE de développement)
-
-Linux / Ubuntu
-
-Fonctionnalités
-
-Page d’accueil : Présentation générale de mes objectifs professionnels, de mes compétences et de mon parcours.
-
-Projets : Liste de mes projets réalisés au cours de ma formation, avec des détails sur chaque projet et les compétences utilisées.
-
-Compétences : Description détaillée de mes compétences techniques en réseaux, cybersécurité, développement web, etc.
-
-Contact : Formulaire de contact et informations pour me joindre.
-
-Structure du projet
-
-Le portfolio est structuré comme suit :
-
-index.html : Page d'accueil du portfolio.
-
-about.html : Page "À propos" avec mes objectifs professionnels et mes passions.
-
-skills.html : Liste de mes compétences techniques.
-
-projects.html : Détails de mes projets réalisés avec des liens externes vers certains projets.
-
-experience.html : Détails de mes diplômes, formations et expériences professionnelles.
-
-contact.html : Formulaire de contact.
-
-style.css : Feuille de style CSS pour la mise en forme du site.
-
-script.js : Scripts JavaScript pour l'interactivité du site (par exemple, effet halo suivi de la souris).
-
-🔧 Installation
-
-Clonez ce repository :
-
-git clone [[https://github.com/TON-PSEUDO/portfolio.git](https://churri95.github.io/portfolio-julie/)
+2. Mes expériences professionnelles
+Mes compétences techniques
+Mes centres d’intérêt
+Des liens vers des projets externes (GitHub, vidéos, présentations)
 
 
-Ouvrez le dossier dans votre éditeur préféré (par exemple, VS Code).
+3. Technologies utilisées
+- HTML5
+- CSS3
+- JavaScript
+- Git / GitHub
+- Visual Studio Code
 
-Pour visualiser le portfolio localement, il vous suffit d’ouvrir le fichier index.html dans un navigateur.
+4. Fonctionnalités principales
 
-Configuration
+- Page d’accueil : Présentation générale, objectifs professionnels et compétences clés
+- Projets : Liste détaillée des projets réalisés au cours de ma formation
+- Compétences : Description de mes compétences techniques en réseaux, systèmes, cybersécurité et développement web
+- Expérience : Diplômes, formations et expériences professionnelles
+- Contact : Page de contact avec formulaire
 
-Aucune configuration supplémentaire n'est nécessaire pour utiliser ce portfolio. Si vous souhaitez personnaliser le site (ajouter vos propres informations ou projets), vous pouvez facilement modifier le contenu des fichiers HTML, CSS, et JavaScript.
 
-Contribuer
+5. Structure du projet
+index.html        → Page d'accueil
+about.html        → Présentation générale et objectifs
+skills.html       → Liste des compétences techniques
+projects.html     → Présentation des projets
+experience.html   → Expériences professionnelles et formation
+contact.html      → Page de contact
+style.css         → Feuille de style principale
+script.js         → Scripts JavaScript (interactions, effets visuels)
 
-Si vous souhaitez contribuer à ce projet, vous pouvez :
 
-Forker ce repository.
+6. Installation
+Clonez le repository :git clone https://churri95.github.io/portfolio-julie/ 
+Ouvrez ensuite le dossier dans votre éditeur de code (exemple : VS Code).
+Pour afficher le site en local, ouvrez simplement le fichier index.html dans votre navigateur.
 
-Créer une branche de développement.
+7. Configuration
+Aucune configuration particulière n’est requise.
+Vous pouvez personnaliser le portfolio en modifiant les fichiers HTML, CSS ou JavaScript selon vos besoins.
 
-Soumettre une pull request avec vos changements.
 
 Liens externes
 
-Mon LinkedIn : Lien LinkedIn
+LinkedIn : [[Lien LinkedIn]](https://www.linkedin.com/in/julie-gredoire/)
+GitHub : [[Lien GitHub]](https://github.com/)
 
-Mon GitHub : Lien GitHub
 
 Contact
-
-Pour toute question ou opportunité, vous pouvez me contacter par email : juliegredoire@example.com
+Pour toute question ou opportunité professionnelle, vous pouvez me contacter à l’adresse suivante :
+julie.gredoire@gmail.com
